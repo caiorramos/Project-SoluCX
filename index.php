@@ -10,8 +10,7 @@
     </head>
   <body>
       <$php
-            $return_HW = "select info01 from website.messenger";
-            $ret_HW = mysqli_query($con, $return_HW);
+            $return_HW = mysqli_query($con, $consulta);
       $>
   </body>
 
