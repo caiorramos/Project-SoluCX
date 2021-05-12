@@ -1,7 +1,7 @@
 <?php
 
 $host = "104.197.107.179";
-$user = "server";
+$user = "service";
 $pass = "Server#2021";
 $db = "website";
 
